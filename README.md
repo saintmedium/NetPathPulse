@@ -9,6 +9,10 @@
 
 ---
 
+## ⬇️ [**СКАЧАТЬ**](https://github.com/saintmedium/NetPathPulse/blob/main/NetPathPulse.exe)
+
+---
+
 ## ✨ Возможности
 
 - 🚀 **Трассировка + пинг одновременно** — как в MTR, но с человеческим интерфейсом
