@@ -9,7 +9,7 @@
 
 ---
 
-## ⬇️ [**СКАЧАТЬ**](https://github.com/saintmedium/NetPathPulse/blob/main/NetPathPulse.exe)
+[**СКАЧАТЬ**](https://github.com/saintmedium/NetPathPulse/releases/latest/download/NetPathPulse.exe)
 
 ---
 
@@ -27,7 +27,7 @@
 
 ## 🖼️ Скриншоты
 
-<img width="1100" height="655" alt="image" src="https://github.com/user-attachments/assets/60e32233-b647-446d-b965-f58e276dd1be](https://raw.githubusercontent.com/saintmedium/NetPathPulse/main/NetPathPulse.exe" />
+<img width="1100" height="655" alt="image" src="[https://github.com/user-attachments/assets/60e32233-b647-446d-b965-f58e276dd1be](https://raw.githubusercontent.com/saintmedium/NetPathPulse/main/NetPathPulse.exe](https://github.com/saintmedium/NetPathPulse/releases/download/v1.0.0/NetPathPulse.exe)" />
 
 
 
